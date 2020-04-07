@@ -1,0 +1,203 @@
+body {
+    background-color: aliceblue;
+}
+
+#intro {
+    text-align: center;
+    font-size: 25px;
+    font-family:  'Arial Narrow';
+    letter-spacing: 2px;
+    margin-top: 18px;
+}
+
+.caixa1 {
+    position:fixed;
+    margin-top:160px;
+    margin-left:45%;
+    width:375px;
+    text-align:justify;
+    padding:10px;
+    padding-right:15px;
+    padding-left:25px;
+    height:30%;
+    background-color:#dae6e6;
+    border-radius:10px;
+    box-shadow:         1px 1px 15px 0px rgba(50, 50, 50, 0.36); 
+}
+ 
+.dentro {
+    margin-top:25px;
+    margin-left:5px;
+    padding:10px;
+    font-size:14px;
+    background-color:#fff;
+border-radius:10px;
+height:auto;
+width:92%;
+margin-bottom:25px;
+}
+
+
+#sidebar {
+    margin-top: 8%;
+    width:24%;
+    height:50%;
+    margin-left:90px; 
+    background-color:#fff;
+    position: fixed;;
+    border-radius:10px;
+    box-shadow: 1px 1px 15px 0px rgba(50, 50, 50, 0.36);
+}
+
+#sidetitulo {
+    text-align: center;
+    margin-top: 20px;
+    color: #0C94C2;
+    margin-right: 5px;
+    letter-spacing: 5px;
+    font-family: Helvetica;
+    font-size: 110%;
+}
+
+#img1 {
+    width:200px;
+    height:115px;
+    margin-top:9px;  
+    margin-left: 20%;
+    border-radius: 10%;
+}
+
+.botao {
+    margin-left: 74px;
+}
+
+#sidetitulo2 {
+    text-align: center;
+    margin-top: 10px;
+    color: #0C94C2;
+    margin-right: 5px;
+    letter-spacing: 2px;
+    font-family: Helvetica;
+}
+
+.caixa2 {
+    position:fixed;
+    margin-top:90px;
+    margin-left:42%;
+    width:470px;
+    text-align:justify;
+    padding:10px;
+    padding-right:15px;
+    padding-left:25px;
+    height:60%;
+    background-color:#dae6e6;
+    border-radius:10px;
+    box-shadow:         1px 1px 15px 0px rgba(50, 50, 50, 0.36); 
+    overflow: scroll;
+}
+ 
+.dentro2 {
+    margin-top:25px;
+    margin-left:5px;
+    padding:10px;
+    font-size:14px;
+    background-color:#fff;
+    border-radius:10px;
+    height:auto;
+    width:92%;
+    margin-bottom:25px;
+}
+
+#sobre {
+    font-size: 120%;
+    font-family: 'Gill Sans';
+    letter-spacing: 1px;
+}
+
+#img2 {
+    width:250px;
+    height:190px;
+    margin-top:20px;  
+    margin-left:40px;
+    border-radius: 10%;
+}
+
+.botao2 {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.audio {
+    margin-top:25px;
+    margin-left:55px;
+    padding:10px;
+    font-size:14px;
+    background-color: aliceblue ;
+    border-radius:10px;
+    height:auto;
+    width:66%;
+    margin-bottom:25px;
+}
+
+.caixa3 {
+    position:fixed;
+    margin-top:100px;
+    margin-left:42%;
+    width:470px;
+    text-align:justify;
+    padding:10px;
+    padding-right:15px;
+    padding-left:25px;
+    height:50%;
+    background-color:#dae6e6;
+    border-radius:10px;
+    box-shadow:         1px 1px 15px 0px rgba(50, 50, 50, 0.36); 
+}
+ 
+.dentro3 {
+    margin-top:55px;
+    margin-left:5px;
+    padding:10px;
+    font-size:14px;
+    background-color:#fff;
+    border-radius:10px;
+    height:auto;
+    width:92%;
+    margin-bottom:25px;
+}
+
+#sidebar3 {
+    margin-top:14%;
+    width:24%;
+    height:20%;
+    margin-left:90px; 
+    background-color:#fff;
+    position: fixed;;
+    border-radius:10px;
+    box-shadow: 1px 1px 15px 0px rgba(50, 50, 50, 0.36);
+}
+
+.botao3 {
+    margin-left: 78px;
+    margin-top: 30px;
+}
+
+#sidetitulo3 {
+    text-align: center;
+    margin-top: 20px;
+    color: #0C94C2;
+    margin-right: 3px;
+    letter-spacing: 2px;
+    font-family: Helvetica;
+    font-size: 140%;
+}
+
+.info {
+    font-family: 'Segoe UI';
+    font-size: 150%;
+    letter-spacing: 3px;
+}
+
+#enviar {
+    margin-left: 240px;
+}
